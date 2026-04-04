@@ -74,20 +74,35 @@ Real-time detection and tracking pipelines.
 
 ### 🛠️ Tech Stack
 
-**AI / ML**
-PyTorch • TensorFlow • Transformers • LangChain • LangGraph
+#### 🧠 AI / Machine Learning & LLM Systems
 
-**Computer Vision**
-OpenCV • YOLO • MediaPipe • DeepSORT
+PyTorch • TensorFlow • Scikit-learn • Transformers • LangChain • LangGraph • LlamaIndex • RAG Pipelines • Prompt Engineering • Model Fine-tuning
 
-**Backend**
-FastAPI • Django • REST APIs • Async Systems
+#### 👁️ Computer Vision
 
-**Data & Systems**
-PostgreSQL • MySQL • FAISS • Redis
+OpenCV • YOLO (v8) • MediaPipe • DeepSORT • Object Detection • Multi-Object Tracking • Feature Engineering
 
-**DevOps**
-Docker • AWS • Linux • CI/CD
+#### ⚙️ Backend & AI Systems Engineering
+
+FastAPI • Django • Flask • REST APIs • Async Processing • Webhooks • API Orchestration • Session Management
+
+#### 🗄️ Data, Retrieval & Storage
+
+PostgreSQL • MySQL • FAISS • Pinecone • ChromaDB • Redis • Data Pipelines • ETL Workflows
+
+#### 🚀 DevOps & Infrastructure
+
+Docker • AWS (EC2, S3) • Linux • CI/CD • Git • GitHub • Containerization
+
+#### 🤖 AI Tools & Development Workflow
+
+ChatGPT • Claude • Gemini • GitHub Copilot • Cursor AI • OpenAI Codex • Trae
+Hugging Face • Ollama • n8n • Elicit • Notion
+
+#### 🎨 Multi-Modal AI & Processing
+
+DALL·E • Stable Diffusion • Whisper • Tesseract (OCR) • ElevenLabs • Canva
+
 
 ---
 
