@@ -18,11 +18,9 @@ I am currently working on production-ready AI systems and multi-agent applicatio
 ![](https://streak-stats.demolab.com/?user=Gaurav0440&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gaurav0440&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://komarev.com/ghpvc/?username=Gaurav0440&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->---
-
 ### 📫 Contact
 
 * LinkedIn: https://linkedin.com/in/gauravchawla001
