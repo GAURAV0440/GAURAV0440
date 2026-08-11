@@ -1,4 +1,4 @@
-<h1 align="center">Gaurav Chawla</h1><h3 align="center">Software Engineer | Gen AI Engineer | Python | Backend Systems | LLMs & RAG</h3>
+<h1 align="center">Gaurav Chawla</h1><h3 align="center">Software Engineer | AI/ML Engineer | Python | Backend Systems | LLMs & RAG</h3>
 
 ---
 
